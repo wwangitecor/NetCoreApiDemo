@@ -17,6 +17,7 @@
     //    "ASPNETCORE_ENVIRONMENT": "Development"
     //  }
     //},
+    //
     "NetCoreApiDemo": {
       "commandName": "Project",
       "launchBrowser": true,
